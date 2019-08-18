@@ -1,0 +1,89 @@
+{
+  "name": "SomeName",
+  "short_name": "SN",
+  "id": 9879798767,
+  "address": {
+    "postcode": "890-567",
+    "country": "UK",
+    "city": "London",
+    "street": "Some Street",
+    "house": "67",
+    "flat": "45"
+  },
+  "members": [
+    {
+      "first_name": "Jan",
+      "surname": "Kowalski",
+      "id": 423465366,
+      "postcode": "01-342",
+      "country": "Poland",
+      "city": "Warsaw",
+      "street": "Wheresome",
+      "house": "43C",
+      "board": true
+    },
+    {
+      "first_name": "Malik",
+      "surname": "Perdapa",
+      "id": 89866686,
+      "postcode": "890-567",
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "street": "Other Place",
+      "house": 45,
+      "board": true
+    },
+    {
+      "first_name": "Yoshi",
+      "surname": "Kamura",
+      "id": 45678788,
+      "postcode": "88663",
+      "country": "Japan",
+      "city": "Tokyo",
+      "district": "Hakamura",
+      "street": "More Place",
+      "house": "67B",
+      "flat": "G",
+      "board": true
+    },
+    {
+      "first_name": "Pablo",
+      "surname": "Artez",
+      "id": 63245523,
+      "postcode": "88663",
+      "country": "Bolivia",
+      "city": "El Paso",
+      "district": "Quime",
+      "street": "Plasa de Laja",
+      "house": "278",
+      "flat": "45/47",
+      "board": false
+    }
+  ],
+  "phones":[
+    "87865656445",
+    "76656454544",
+    "82343532322"
+  ],
+  "branch_offices": [
+    {
+      "city": "Nottigham",
+      "street": "Walkie",
+      "house": "56A/58",
+      "flat": "34"
+    },
+    {
+      "city": "Leicester",
+      "district": "Queens",
+      "street": "Mothing",
+      "house": "2"
+    },
+    {
+      "city": "Bristol",
+      "district": "Welsh-Mines",
+      "street": "Peter Bronson",
+      "house": "975",
+      "flat": "4H"
+    }
+  ]
+}
